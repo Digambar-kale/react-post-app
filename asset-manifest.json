@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-post-app/static/css/main.db72275b.css",
+    "main.js": "/react-post-app/static/js/main.b95bfe22.js",
+    "static/media/alien.jpeg": "/react-post-app/static/media/alien.fda36406be5b6f116e7e.jpeg",
+    "index.html": "/react-post-app/index.html",
+    "main.db72275b.css.map": "/react-post-app/static/css/main.db72275b.css.map",
+    "main.b95bfe22.js.map": "/react-post-app/static/js/main.b95bfe22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db72275b.css",
+    "static/js/main.b95bfe22.js"
+  ]
+}
